@@ -30,4 +30,10 @@ app.post("/account", (request, response) => {
   return response.status(201).send(costumers);
 });
 
+app.get("/statement/:cpf", (request, response) => {
+  const { cpf } = request.params;
+
+  const costumer = costumers.find(cost);
+});
+
 app.listen(1412);

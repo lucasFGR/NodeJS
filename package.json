@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "yarn": "^1.22.19"
+  },
+  "name": "NodeJS",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/lucasFGR/NodeJS.git",
+  "author": "Zeer0e1 <lucasfreitasr@outlook.com>",
+  "license": "MIT"
+}
